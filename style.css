@@ -17,7 +17,7 @@
 
 .services-section {
     margin-top: 7.5rem;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 
@@ -31,6 +31,11 @@
 
 .svg {
     margin-bottom: 2rem;
+}
+
+
+.slider {
+    margin-top: 5rem;
 }
 
 
@@ -52,6 +57,9 @@
     .services-div  {
         margin-top: 2rem;
     }
+
+
+   
 }
 
 
