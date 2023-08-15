@@ -1,0 +1,37 @@
+
+
+.header-div img {
+    max-width: 60%;
+    margin-top: 1.3rem;
+}
+
+.header-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+@media(max-width:768px) {
+    .header-div img {
+        max-width: 100%;
+    }
+    .button-div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .button-div :nth-child(2) {
+        margin-top: 1rem;
+    }
+}
+
+
+
+
+
+
+
